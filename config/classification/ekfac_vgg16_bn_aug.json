@@ -2,7 +2,7 @@
   "mode": "classification",
   "exp_name": "ekfac_vgg16_bn_aug",
   "dataset": "cifar10",
-  "data_path": "classification/data",
+  "data_path": "/scratch-ssd/oatml/data",
   "optimizer": "ekfac",
   "fisher_approx": "eigen",
   "model_name": "vgg16",

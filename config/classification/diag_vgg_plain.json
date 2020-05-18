@@ -2,7 +2,7 @@
   "mode": "classification",
   "exp_name": "diag_vgg16_plain",
   "dataset": "cifar10",
-  "data_path": "classification/data",
+  "data_path": "/scratch-ssd/oatml/data",
   "optimizer": "diag",
   "fisher_approx": "diagonal",
   "model_name": "vgg16",
